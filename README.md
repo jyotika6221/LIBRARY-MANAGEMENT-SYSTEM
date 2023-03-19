@@ -4,12 +4,12 @@
 This is an online library management system for IGDTUW. Our library management system provides a platform for both admin and student to access all the features of a real library. Using this system, the admin can login, view, insert, update and delele the student as well as book details. It also allows the student to issue a book, return a book, search for book recommendations and reserve a book. 
 
 # TECHNOLOGIES USED
-PYHON-Primary tech stack used to write the complete code
-MYSQL-To create the database
-MySQL Connector- Used to enable the Python program to access MySQL database
-TKINTER-This library was used to create Graphical User Interface(GUIs)
-PILLOW- Used to include all basic image processing functionality
-CANVA- For the presentation and outline of our project
+* PYHON-Primary tech stack used to write the complete code
+* MYSQL-To create the database
+* MySQL Connector- Used to enable the Python program to access MySQL database
+* TKINTER-This library was used to create Graphical User Interface(GUIs)
+* PILLOW- Used to include all basic image processing functionality
+* CANVA- For the presentation and outline of our project
 
 # FEATURES FOR ADMIN
 * Add student
