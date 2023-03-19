@@ -42,6 +42,8 @@ This is an online library management system for IGDTUW. Our library management s
 
 This is the link to our video demonstration of the project: https://drive.google.com/file/d/1-XvGL5ibfZAnzXZXJj7eaxVbsZvRhZG5/view?usp=drivesdk
 
+In case the above link doesn't work, kindly use this: https://screenrec.com/share/dHt0YfiycC
+
 
 # LINK
 
