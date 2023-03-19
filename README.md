@@ -43,6 +43,6 @@ CANVA- For the presentation and outline of our project
 This is the link to our video demonstration of the project:
 
 
-# PDF
+# LINK
 
 PRESENTATION LINK: https://www.canva.com/design/DAFdkVQ6eKU/xbPsq-EpYRpGj91B0sXcuA/edit?utm_content=DAFdkVQ6eKU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
