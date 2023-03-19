@@ -12,30 +12,30 @@ PILLOW- Used to include all basic image processing functionality
 CANVA- For the presentation and outline of our project
 
 # FEATURES FOR ADMIN
-*Add student
-*Show details of all books
-*Show details of all isssued books
-*Show details of all students
-*Search a book
-*View fine on a student
-*Update book and student details
-*Remove a book or student
-*Logout
+* Add student
+* Show details of all books
+* Show details of all isssued books
+* Show details of all students
+* Search a book
+* View fine on a student
+* Update book and student details
+* Remove a book or student
+* Logout
 
 # FEATURES FOR STUDENT
-*View his/her profile
-*Change password
-*Issue or return a book
-*View his/her fines
-*Search a book or get book recommendations
-*Logout
+* View his/her profile
+* Change password
+* Issue or return a book
+* View his/her fines
+* Search a book or get book recommendations
+* Logout
 
 
 # BENEFITS
 
-*Saves time
-*User-friendly interface
-*Cost-efficient
+* Saves time
+* User-friendly interface
+* Cost-efficient
 
 
 # VIDEO DEMO
