@@ -6,7 +6,7 @@ This is an online library management system for IGDTUW. Our library management s
 # TECHNOLOGIES USED
 * PYHON-Primary tech stack used to write the complete code
 * MYSQL-To create the database
-* MySQL Connector- Used to enable the Python program to access MySQL database
+* MySQL Connector/Python- Used to enable the Python program to access MySQL database
 * TKINTER-This library was used to create Graphical User Interface(GUIs)
 * PILLOW- Used to include all basic image processing functionality
 * CANVA- For the presentation and outline of our project
